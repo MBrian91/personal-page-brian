@@ -16,7 +16,7 @@ Esta Pagina Web se trata sobre un proyecto personal describiendo mi trabajo como
 
 ## Cómo empezar
 
-<span style="background-color: blue; padding: 5px; color: gold;">Opción 1: Clickear enlace en "About"</span>
-<span style="background-color: crimson; padding: 5px; color: white">Opción 2: Clonar el repositorio y ejecutar archivo index.html</span>
+Opción 1: Clickear enlace en "About"
+Opción 2: Clonar el repositorio y ejecutar archivo index.html
 
 [Repositorio GitHub](https://github.com/MBrian91/personal-page-brian.git)
